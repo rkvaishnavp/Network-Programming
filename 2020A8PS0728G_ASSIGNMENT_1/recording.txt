@@ -1,0 +1,13 @@
+Script started on 2024-02-04 05:05:26+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="128" LINES="29"]
+[?2004h]0;rkvp@VAISHNAVStuf: ~/Desktop/NP Assignment/2020A8PS0728G_ASSIGNMENT_1[01;32mrkvp@VAISHNAVStuf[00m:[01;34m~/Desktop/NP Assignment/2020A8PS0728G_ASSIGNMENT_1[00m$ gcc -[K2020A8PS0728G_ASSIGNMENT_1.c -o 2020A8PS0728G_ASSIGNMENT_1.c [K[K[K
+[?2004l[?2004h]0;rkvp@VAISHNAVStuf: ~/Desktop/NP Assignment/2020A8PS0728G_ASSIGNMENT_1[01;32mrkvp@VAISHNAVStuf[00m:[01;34m~/Desktop/NP Assignment/2020A8PS0728G_ASSIGNMENT_1[00m$ ./2020A8PS0728G_ASSIGNMENT_1 
+[?2004lParent - PID: 49860
+Child - PID: 49861
+GrandChild - PID: 49862
+Child: GrandChild has Exited with PID : 49862
+Parent: Child has Exited with PID : 49861
+Parent - PID: 49860
+[?2004h]0;rkvp@VAISHNAVStuf: ~/Desktop/NP Assignment/2020A8PS0728G_ASSIGNMENT_1[01;32mrkvp@VAISHNAVStuf[00m:[01;34m~/Desktop/NP Assignment/2020A8PS0728G_ASSIGNMENT_1[00m$ exit
+[?2004lexit
+
+Script done on 2024-02-04 05:05:44+05:30 [COMMAND_EXIT_CODE="0"]
